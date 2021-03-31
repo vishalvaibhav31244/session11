@@ -1,0 +1,3 @@
+session11 is combination of practical 1 and 4
+we exectue these program using the lab desktop and upload it to the moodle
+in the lab session itself and we need to show the execution part to respective faculty today.
